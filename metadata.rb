@@ -1,0 +1,5 @@
+name             'nginx-logrotate'
+maintainer       'Rawnet'
+maintainer_email 'development@rawnet.com'
+license          'All rights reserved'
+version          '0.0.1'
